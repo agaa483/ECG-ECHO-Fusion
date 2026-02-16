@@ -1,0 +1,7 @@
+{
+  "feature_layer": "GlobalAveragePooling1D",
+  "ensemble_rule": "0.6*age_cnn + 0.4*age_xgb",
+  "cnn_checkpoint": "C:\\Users\\chaud\\OneDrive\\Desktop\\CODE 15 (data and models)\\PTB XL Varun's Test\\Varun on CODE 15\\6.9 years MAE (artifact guided travelling fixes)\\results_code15_TRAVELING_FIXES\\best_model_code15_artifact_aware.h5",
+  "xgb_model": "xgb_code15.json",
+  "preproc_stats": "preprocessing_stats_code15.npz"
+}
